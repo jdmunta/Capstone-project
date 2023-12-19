@@ -10,3 +10,4 @@ class BookingSerializer(ModelSerializer):
     class Meta:
         model = Booking
         fields = '__all__'
+
