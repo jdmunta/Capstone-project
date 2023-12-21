@@ -88,11 +88,11 @@ DATABASES = {
     },
     "default": {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'littlelemon_restaurant_2',
+        'NAME': 'restaurant',
         'HOST' : '127.0.0.1',
         'PORT' : '3306',
         'USER' : 'root',
-        'PASSWORD' : 'root321!',
+        'PASSWORD' : 'root@123',
     }
 }
 
