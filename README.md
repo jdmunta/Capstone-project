@@ -1,6 +1,7 @@
 # Capstone-Project
 Little Lemon 
 
+<pre>
 Steps
  git clone https://github.com/jdmunta/Capstone-project.git
  cd Capstone-project/
@@ -17,5 +18,7 @@ $ python manage.py makemigrations
 $ python manage.py migrate
 $ python manage.py runserver
 
-URL: http://127.0.0.1:8000/ and paths are below. For example: http://127.0.0.1:8000/restaurant/booking/tables
-<a href="littlelemon/Readme.txt">See the Paths in littlelemon/Readme.txt</a>
+URL: http://127.0.0.1:8000/ and paths are below. 
+ For example: http://127.0.0.1:8000/restaurant/booking/tables
+</pre>
+ See the API Paths at <a href="littlelemon/Readme.txt"> littlelemon/Readme.txt</a>
